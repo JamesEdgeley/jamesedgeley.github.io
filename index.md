@@ -1,6 +1,6 @@
 ## List of Crosswords
 
-[1. Beginning](https://JamesEdgeley.github.io/Crosswords/exolve-m.html)
+[1. Beginning](https://JamesEdgeley.github.io/Crosswords/1.Beginning.html)
 
 
 ### Markdown
