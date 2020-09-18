@@ -1,4 +1,4 @@
-## List of Projects
+## Home
 
 [Crosswords](./Crosswords/)
 
