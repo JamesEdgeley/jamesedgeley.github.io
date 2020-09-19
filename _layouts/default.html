@@ -19,8 +19,7 @@
     
     <style>
       body {
-        {% assign bkgd_image = "crossedswords.png" %}
-        background-image: url({{ bkgd_image }});
+        background-image: url("{{ layout.bkgd_image }}");
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: contain;
