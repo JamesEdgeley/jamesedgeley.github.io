@@ -1,6 +1,6 @@
 ## Home
 
-[Crosswords](Crossword)
+[Crosswords](Crosswords)
 [Physics](Physics/intro)
 
 
