@@ -1,7 +1,10 @@
 ---
 layout: physics
-title: About
+title: Physics
 ---
-# Intro page
+
+Below is a list of physics projects
+
+## List of Projects
 
 This section contains some physics projects.
