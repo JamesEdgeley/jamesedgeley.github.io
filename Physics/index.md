@@ -79,7 +79,7 @@ This section contains some physics projects.
     <div class="description">
       <h1>Part II Computational Project</h1>
       <h2>The Ising Model</h2>
-      <p>A simple simulation of ferromagnetism in</p>
+      <p>A simple simulation of ferromagnetism in C++</p>
       <p class="read-more">
         <a href="Ising">Read More</a>
       </p>
