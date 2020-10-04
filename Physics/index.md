@@ -22,7 +22,7 @@ This section contains some physics projects.
 
 <div class="blog-card">
     <div class="meta">
-      <div class="photo" style="background-image: atom.png"></div>
+      <div class="photo" style="background-image: url(atom.png)"></div>
       <ul class="details">
         <li class="author"><a href="#">John Doe</a></li>
         <li class="date">Aug. 24, 2015</li>
