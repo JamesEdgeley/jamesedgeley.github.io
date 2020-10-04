@@ -30,7 +30,7 @@ This section contains some physics projects.
       <h2>Determining The Reaction Zone Length of PETN</h2>
       <p>An investigation into the secondary explosive pentaerythritol tetranitrate (PETN), combining experimental, computational and theoretical work</p>
       <p class="read-more">
-        <a href="#">Read More</a>
+        <a href="PhD">Read More</a>
       </p>
     </div>
   </div>
@@ -55,7 +55,7 @@ This section contains some physics projects.
       <h2>Non-Linear Effects in Plasma</h2>
       <p>A computational project investigating perturbation effects in plasma.  A particle-in-cell method was used to simulate several different scenarios</p>
       <p class="read-more">
-        <a href="#">Read More</a>
+        <a href="MSci">Read More</a>
       </p>
     </div>
   </div>
@@ -79,9 +79,9 @@ This section contains some physics projects.
     <div class="description">
       <h1>Part II Computational Project</h1>
       <h2>The Ising Model</h2>
-      <p>A simple simulation of ferromagnetism in C++</p>
+      <p>A simple simulation of ferromagnetism in</p>
       <p class="read-more">
-        <a href="#">Read More</a>
+        <a href="Ising">Read More</a>
       </p>
     </div>
   </div>
