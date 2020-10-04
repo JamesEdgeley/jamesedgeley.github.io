@@ -15,12 +15,15 @@ This section contains some physics projects.
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2016-2020</li>
+        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">SMF Group</li>
+        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</li>
+        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</li>
         <li class="tags">
           <ul>
-            <li><a href="#">Learn</a></li>
-            <li><a href="#">Code</a></li>
-            <li><a href="#">HTML</a></li>
-            <li><a href="#">CSS</a></li>
+            <li><a>Energetic Materials</a></li>
+            <li><a>Detonation</a></li>
+            <li><a>PETN</a></li>
+            <li><a>Capacitive Sensing</a></li>
           </ul>
         </li>
       </ul>
@@ -41,11 +44,13 @@ This section contains some physics projects.
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2015-2016</li>
+        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</li>
+        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</li>
         <li class="tags">
           <ul>
-            <li><a href="#">Learn</a></li>
-            <li><a href="#">Code</a></li>
-            <li><a href="#">JavaScript</a></li>
+            <li><a>Plasma</a></li>
+            <li><a>PIC</a></li>
+            <li><a>Non-Linear Effects</a></li>
           </ul>
         </li>
       </ul>
@@ -66,12 +71,12 @@ This section contains some physics projects.
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2015</li>
+        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</li>
+        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</li>
         <li class="tags">
           <ul>
-            <li><a href="#">Learn</a></li>
-            <li><a href="#">Code</a></li>
-            <li><a href="#">HTML</a></li>
-            <li><a href="#">CSS</a></li>
+            <li><a>Ising Model</a></li>
+            <li><a>Ferromagnetism</a></li>
           </ul>
         </li>
       </ul>
