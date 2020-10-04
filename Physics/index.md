@@ -15,9 +15,9 @@ This section contains some physics projects.
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2016-2020</li>
-        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">SMF Group</li>
-        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</li>
-        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</li>
+        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">SMF Group</a></li>
+        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
+        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
         <li class="tags">
           <ul>
             <li><a>Energetic Materials</a></li>
@@ -44,8 +44,8 @@ This section contains some physics projects.
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2015-2016</li>
-        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</li>
-        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</li>
+        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
+        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
         <li class="tags">
           <ul>
             <li><a>Plasma</a></li>
@@ -71,8 +71,8 @@ This section contains some physics projects.
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2015</li>
-        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</li>
-        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</li>
+        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
+        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
         <li class="tags">
           <ul>
             <li><a>Ising Model</a></li>
