@@ -9,17 +9,6 @@ Below is a list of physics projects
 
 This section contains some physics projects.
 
-<div class="app">
-
-<img src="atom.png" style="grid-column:1;">
-
-  <main style="grid-column:2;">
-    <h1>PhD</h1>
-    <p>My PhD is on </p>
-    <a href="">Read more</a>
-  </main>
-</div>
-
 <div class="blog-card">
     <div class="meta">
       <div class="photo" style="background-image: url(atom.png)"></div>
