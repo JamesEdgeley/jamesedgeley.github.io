@@ -3,11 +3,9 @@ layout: physics
 title: Physics
 ---
 
-Below is a list of physics projects
+I studied Natural Sciences at Cambridge from 2012-2016, specialising in physics.  I continued onto a PhD programme with the SMF (Surfaces, Microstructure and Fracture) group from 2016-present.
 
 ## List of Projects
-
-This section contains some physics projects.
 
 <div class="blog-card">
     <div class="meta">
@@ -18,6 +16,7 @@ This section contains some physics projects.
         <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">SMF Group</a></li>
         <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
         <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
+        <br>
         <li class="tags">
           <ul>
             <li><a>Energetic Materials</a></li>
@@ -46,6 +45,7 @@ This section contains some physics projects.
         <li class="date">2015-2016</li>
         <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
         <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
+        <br>
         <li class="tags">
           <ul>
             <li><a>Plasma</a></li>
@@ -73,6 +73,7 @@ This section contains some physics projects.
         <li class="date">2015</li>
         <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
         <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
+        <br>
         <li class="tags">
           <ul>
             <li><a>Ising Model</a></li>
