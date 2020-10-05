@@ -39,7 +39,7 @@ I studied Natural Sciences at Cambridge from 2012-2016, specialising in physics.
 
   <div class="blog-card alt">
     <div class="meta">
-      <div class="photo" style="background-image: url(atom.png)"></div>
+      <div class="photo" style="background-image: url(sigma1.gif)"></div>
       <ul class="details">
         <li class="author"><a href="#">James Edgeley</a></li>
         <li class="date">2015-2016</li>
