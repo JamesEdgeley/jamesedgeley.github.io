@@ -10,17 +10,14 @@ I studied Natural Sciences at Cambridge from 2012-2016, specialising in physics.
 # PhD
 {% include blogcard.html image="sigma1.gif" author="James Edgeley" date="2016-2021" location="SMF GROUP" title="PhD" subtitle="Determining The Reaction Zone Length of PETN"
 description="An investigation into the secondary explosive pentaerythritol tetranitrate (PETN), combining experimental, computational and theoretical work"
-tags="Energetic Materials", "Detonation", "PETN", "Capacitive Sensing"
 url="PhD" %}
 
 {% include blogcardalt.html image="sigma1.gif" author="James Edgeley" date="2015-2016" title="Masters Project" subtitle="Non-Linear Effects in Plasma"
 description="A computational project investigating perturbation effects in plasma.  A particle-in-cell method was used to simulate several different scenarios"
-tags="Plasma", "PIC", "Non-Linear Effects"
 url="MSci" %}
 
 {% include blogcard.html image="sigma1.gif" author="James Edgeley" date="2015" location="SMF GROUP" title=">Part II Computational Project" subtitle="The Ising Model"
 description="A simple simulation of ferromagnetism in C++"
-tags="Ising Model", "Ferromagnetism"
 url="Ising" %}
 
   <div class="blog-card alt">
