@@ -7,35 +7,10 @@ I studied Natural Sciences at Cambridge from 2012-2016, specialising in physics.
 
 ## List of Projects
 
-<div class="blog-card">
-    <div class="meta">
-      <div class="photo" style="background-image: url(atom.png)"></div>
-      <ul class="details">
-        <li class="author"><a href="#">James Edgeley</a></li>
-        <li class="date">2016-2020</li>
-        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">SMF Group</a></li>
-        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
-        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
-        <br>
-        <li class="tags">
-          <ul>
-            <li><a>Energetic Materials</a></li>
-            <li><a>Detonation</a></li>
-            <li><a>PETN</a></li>
-            <li><a>Capacitive Sensing</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-    <div class="description">
-      <h1>PhD</h1>
-      <h2>Determining The Reaction Zone Length of PETN</h2>
-      <p>An investigation into the secondary explosive pentaerythritol tetranitrate (PETN), combining experimental, computational and theoretical work</p>
-      <p class="read-more">
-        <a href="PhD">Read More</a>
-      </p>
-    </div>
-  </div>
+# PhD
+{% include blogcard.html image="sigma1.gif" author="James Edgeley" date="2016-2021" location="SMF GROUP" title="PhD" subtitle="Determining The Reaction Zone Length of PETN"
+description="An investigation into the secondary explosive pentaerythritol tetranitrate (PETN), combining experimental, computational and theoretical work"
+url="PhD" %}
 
   <div class="blog-card alt">
     <div class="meta">

@@ -4,7 +4,7 @@
       <ul class="details">
         <li class="author"><a href="#">{{ include.author }}</a></li>
         <li class="date">{{ include.date }}</li>
-        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">SMF Group</a></li>
+        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">{{ include.location }}</a></li>
         <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
         <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
         <br>
@@ -19,9 +19,9 @@
       </ul>
     </div>
     <div class="description">
-      <h1>PhD</h1>
-      <h2>Determining The Reaction Zone Length of PETN</h2>
-      <p>An investigation into the secondary explosive pentaerythritol tetranitrate (PETN), combining experimental, computational and theoretical work</p>
+      <h1>{{ include.title }}</h1>
+      <h2>{{ include.subtitle }}</h2>
+      <p>{{ include.description }}</p>
       <p class="read-more">
         <a href="{{ include.url }}">Read More</a>
       </p>
