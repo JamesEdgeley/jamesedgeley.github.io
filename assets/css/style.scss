@@ -90,12 +90,10 @@ $color_dark: #626262;
       content: "\f133";
     }
 
-    .location {
-      ul:before {
+    .location:before {
         font-family: FontAwesome;
         margin-right: 10px;
         content: "\fc35";
-      }
     }
 
     .tags {
