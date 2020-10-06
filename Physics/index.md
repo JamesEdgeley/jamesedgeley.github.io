@@ -16,6 +16,6 @@ url="PhD" %}
 description="A computational project investigating perturbation effects in plasma.  A particle-in-cell method was used to simulate several different scenarios"
 url="MSci" %}
 
-{% include blogcard.html image="sigma1.gif" author="James Edgeley" date="2015" location="SMF GROUP" title=">Part II Computational Project" subtitle="The Ising Model"
+{% include blogcard.html image="sigma1.gif" author="James Edgeley" date="2015" location="SMF GROUP" title="Part II Computational Project" subtitle="The Ising Model"
 description="A simple simulation of ferromagnetism in C++"
 url="Ising" %}
