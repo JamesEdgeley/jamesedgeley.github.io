@@ -4,6 +4,6 @@ title: PhD
 ---
 
 # PhD
-{% include blogcard.html %}
+{% include blogcard.html image=sigma1.gif %}
 Determining the Reaction Zone Length of PETN
 
