@@ -5,5 +5,5 @@ title: Ising
 
 # Ising Model
 
-Computational simulatin of ferromagnetism
+Computational simulation of ferromagnetism
 
