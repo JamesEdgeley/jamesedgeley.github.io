@@ -4,14 +4,14 @@
       <ul class="details">
         <li class="author"><a href="#">{{ include.author }}</a></li>
         <li class="date">{{ include.date }}</li>
-        <li class="location"><a href="https://www.smf.phy.cam.ac.uk/">{{ include.location }}</a></li>
-        <li class="location"><a href="https://www.phy.cam.ac.uk/">Department of Physics</a></li>
-        <li class="location"><a href="https://www.cam.ac.uk/">University of Cambridge</a></li>
+        <li class="location"><a href="{{ include.location1url }}">{{ include.location1 }}</a></li>
+        <li class="location"><a href="{{ include.location2url }}">{{ include.location2 }}</a></li>
+        <li class="location"><a href="{{ include.location3url }}">{{ include.location3 }}</a></li>
         <br>
       </ul>
     </div>
     <div class="description">
-      <h1>{{ include.title }}</h1>
+      <h1><a href="{{ include.url }}">{{ include.title }}</a></h1>
       <h2>{{ include.subtitle }}</h2>
       <p>{{ include.description }}</p>
       <p class="read-more">
