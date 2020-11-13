@@ -4,7 +4,7 @@ title: Crosswords
 description: Pointless challenge? (10)
 ---
 
-Crosswords listed below in reverse order
+Pointless challenge? (10)
 
 ## List of Crosswords
 
