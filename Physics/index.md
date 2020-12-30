@@ -13,7 +13,7 @@ title="PhD" subtitle="Determining The Reaction Zone Length of PETN"
 description="An investigation into the secondary explosive pentaerythritol tetranitrate (PETN), combining experimental, computational and theoretical work"
 url="PhD" %}
 
-{% include blogcardalt.html image="assets/images/sigma1.gif" author="James Edgeley" date="2015-2016"
+{% include blogcardalt.html image="sigma1.gif" author="James Edgeley" date="2015-2016"
 location2="Department of Physics" location2url="https://www.phy.cam.ac.uk/" location3="University of Cambridge" location3url="https://www.cam.ac.uk/"
 title="Masters Project" subtitle="Non-Linear Effects in Plasma"
 description="A computational project investigating perturbation effects in plasma.  A particle-in-cell method was used to simulate several different scenarios"
