@@ -1,6 +1,6 @@
 ## Home
 
-{% include blogcard.html image="crossword.jpg" author="James Edgeley" date="2019-" location1="Cambridge" title="Crosswords" subtitle="Crosswords"
+{% include blogcard.html image="assets/images/crossword.jpg" author="James Edgeley" date="2019-" location1="Cambridge" title="Crosswords" subtitle="Crosswords"
 description="A collection of my cryptic crosswords"
 url="Crosswords" %}
 
