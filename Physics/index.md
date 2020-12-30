@@ -7,7 +7,6 @@ I studied Natural Sciences at Cambridge from 2012-2016, specialising in physics.
 
 ## List of Projects
 
-# PhD
 {% include blogcard.html image="sigma1.gif" author="James Edgeley" date="2016-2021" 
 location1="SMF GROUP" location1url="https://www.smf.phy.cam.ac.uk/" location2="Department of Physics" location2url="https://www.phy.cam.ac.uk/" location3="University of Cambridge" location3url="https://www.cam.ac.uk/" 
 title="PhD" subtitle="Determining The Reaction Zone Length of PETN"
