@@ -1,5 +1,5 @@
 ---
-layout: finance
+layout: statistics
 title: Statistics
 ---
 
