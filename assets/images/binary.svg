@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="974.09662mm"
-   height="528.80768mm"
-   viewBox="0 0 974.09662 528.80768"
+   width="958.66266mm"
+   height="526.21698mm"
+   viewBox="0 0 958.66266 526.21698"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="binary.svg"
    inkscape:export-filename="C:\Users\jedge\OneDrive\Documents\Website\jamesedgeley.github.io\assets\images\binary.png"
    inkscape:export-xdpi="96"
@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1899.3126"
-     inkscape:cy="1325.2013"
+     inkscape:zoom="0.35"
+     inkscape:cx="1008.0183"
+     inkscape:cy="1448.0385"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,10 +55,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-20.409139,-11.890984)">
+     transform="translate(-21.423375,-14.470671)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:23.26000023px;font-family:Courier;-inkscape-font-specification:Courier;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:23.26000023px;font-family:Courier;-inkscape-font-specification:Courier;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="18.898809"
        y="28.636904"
        id="text4487"><tspan

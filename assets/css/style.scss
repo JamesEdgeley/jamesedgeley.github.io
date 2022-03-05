@@ -212,3 +212,11 @@ $color_dark: #626262;
     }
   }
 }
+
+details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}

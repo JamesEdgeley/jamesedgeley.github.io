@@ -5,8 +5,8 @@ title: Advent of Code
 
 ## Browse by year
 
-{% include blogcard.html image="matrix.gif" author="James Edgeley" date="2020" 
+{% include blogcard.html image="aoc2020.png" author="James Edgeley" date="2020" 
 location1="Advent of Code website" location1url="https://adventofcode.com/2020" 
-title="AoC" subtitle="Advent of Code"
+title="2020" subtitle="Python"
 description="Solutions to the 2020 Advent of Code challenges"
 url="2020" %}

@@ -6,9 +6,13 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css">
+    <link rel="stylesheet" href="/assets/css/monokai-sublime.min.css">
+    <script src="/assets/highlight.min.js"></script>
+    
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+
+    <!--script src="{{ '/assets/js/respond.js' | relative_url }}"></script-->
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -36,11 +40,12 @@
           <ul>
             <li class="fork"><a href="{{ site.url }}">Home</a></li>
             <li class="fork"><a href="{{ site.url }}/about">About</a></li>
+            <li class="fork"><a href="{{ site.url }}/Programming">Programming</a></li>
             <li class="fork"><a href="{{ site.url }}/Physics">Physics</a></li>
             <li class="fork"><a href="{{ site.url }}/Statistics">Statistics</a></li>
             <li class="fork"><a href="{{ site.url }}/Finance">Finance</a></li>
             <li class="fork"><a href="{{ site.url }}/Crosswords">Crosswords</a></li>
-            <li class="fork"><a href="{{ site.url }}/Programming">Programming</a></li>
+            
             {% if site.show_downloads %}
               <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
               <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
@@ -59,9 +64,9 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
         </div>
-
+        
         {{ content }}
-
+        
       </section>
 
     </div>
