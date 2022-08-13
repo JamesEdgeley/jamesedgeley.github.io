@@ -5,5 +5,5 @@ title: MSci
 
 # MSci
 
-[Non-Linear Effects in Plasma](/Physics/Msci/Edgeley_MSci.pdf)
+[Non-Linear Effects in Plasma](/Physics/MSci/Edgeley_MSci.pdf)
 
