@@ -16,3 +16,9 @@ location1="C++20"
 title="Thread Pool" subtitle="C++20"
 description="A thread pool with work-stealing"
 url="ThreadPool" %}
+
+{% include blogcard.html image="fpga.jpg" author="James Edgeley" date="2022" 
+location1="Verilog"
+title="FPGA" subtitle="Verilog"
+description="HDL code"
+url="FPGA" %}

@@ -15,6 +15,14 @@ $color_grey: #e2e2e2;
 $color_grey_dark: #a2a2a2;
 $color_dark: #626262;
 
+.wrapper {
+  max-width: 1000px;
+}
+section {
+  max-width: 1000px;
+}
+
+
 .blog-card {
   display: flex;
   flex-direction: column;
@@ -178,7 +186,7 @@ $color_dark: #626262;
 
   @media (min-width: 640px) {
     flex-direction: row;
-    max-width: 700px;
+    max-width: 900px;
     .meta {
       flex-basis: 40%;
       height: auto;
