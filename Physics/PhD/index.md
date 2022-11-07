@@ -3,7 +3,7 @@ layout: physics
 title: PhD
 ---
 
-# MSci
+# PhD
 
-[Determining the Reaction Zone Length in Shock Initiated PETN](/Physics/PhD/Edgeley_PhDThesis.pdf)
+[Determining the Reaction Zone Length in Shock Initiated PETN](/Physics/PhD/Thesis.pdf)
 
