@@ -175,7 +175,7 @@ td:first-child:not(.filler) {
   max-width: 940px;
 }
 .clues-box {
-  width: 460px;
+  width: 200px;
   margin: 0 8px 0 0;
   overflow-y: auto;
 }

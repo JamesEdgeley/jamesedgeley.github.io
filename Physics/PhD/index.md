@@ -9,8 +9,7 @@ I studied in the [Surfaces, Microstructure and Fracture (SMF) Group (formerly an
 
 The work was funded by the [Atomic Weapons Establishment (AWE)](https://www.awe.co.uk/).
 
-
-A list of my publications is [here](Publications)
+My thesis, and a list of publications and presentations is found [here](Publications)
 
 ---
 <img src="Images/small.jpg" width="33%" height="250"/>
